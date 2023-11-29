@@ -18,3 +18,6 @@ My Favourite Meals Page
 Displays a list of all favorite meals.
 The list is persistent, maintaining the same number of meals even after closing or refreshing the browser.
 Each meal in the list has a "Remove from Favourites" button to remove it from the list.
+
+Hosting - 
+https://888shubham.github.io/Meal-App/
